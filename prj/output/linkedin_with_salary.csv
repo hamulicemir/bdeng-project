@@ -1,4 +1,4 @@
-job_title,company_location,job_description,applicants,country,city,job_title_clean,SQL,Python,Spark or Hive,PowerBI,Scikit-learn,Tableau,BigData,ML,ETL,ABtest,Senior,Remote,id,raw_amount,period,salary_annual
+job_title,company_location,job_description,applicants,country,city,job_title_clean,SQL,Python,Spark or Hive,PowerBI,Scikit-learn,Tableau,BigData,ML,ETL,ABtest,Senior,Remote,id,raw_amount,period,annual_salary
 DevOps Engineer (m/f/d) – Innovation and Technology Services,"Eggelsberg, Upper Austria, Austria","Take your next career step at B&R – a member of the ABB Group – with a global team that is energizing the transformation of society and industry to achieve a more productive, sustainable future.
 
 At B&R – a member of the ABB Group, we have the clear goal of driving diversity and inclusion across all dimensions: gender, LGBTQ+, abilities, ethnicity and generations.
